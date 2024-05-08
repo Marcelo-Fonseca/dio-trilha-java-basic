@@ -1,4 +1,4 @@
-public class contaTerminal {
+public class ContaTerminal {
     public static void main(String[] args) throws Exception {
        //TODO: Conhecer e importar as classe Scanner
        //Exibir as mensagens para o nosso usuario
