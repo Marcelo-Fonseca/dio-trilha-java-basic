@@ -4,5 +4,7 @@ public class contaTerminal {
        //Exibir as mensagens para o nosso usuario
        //obeter pela classe Scanner os valores digitados pelo usuario
       //Exibir a mensagem da conta criada
+
+      System.out.println("teste de");
     }
 }
