@@ -133,6 +133,8 @@ System.out.println("NumeroUm é Menor ao NumeroDois? " + simNao);
 String nomeUm = "Marcelo";
 String nomeDois = new String("Fonseca");
 System.out.println(nomeUm.equals(nomeDois) );
+System.out.println("---------------");
+
 
 
 
