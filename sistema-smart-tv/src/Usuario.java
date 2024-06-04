@@ -9,3 +9,5 @@ public class Usuario {
        smartTv.ligar();
        System.out.println("Novo Status -> Tv ligada" + smartTv.ligada);
 }
+}
+
