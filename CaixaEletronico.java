@@ -1,5 +1,7 @@
-public class CaicaEletronico {
+public class CaixaEletronico {
     public static void main(String[]args) {
+        //condição composta tem true e false
+        
         double saldo = 25.0;
         double valorSolicitado = 26.0;
 

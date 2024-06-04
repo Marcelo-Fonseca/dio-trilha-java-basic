@@ -1,16 +1,20 @@
-public class resultadoEscolar {
+public class ResultadoEscolar {
     public static void main(String[]args) {
         int nota = 6;
-        if(nota >=7) 
+        if(nota >=7)
         System.out.println("Aprovado");
-    }@Override
-    public boolean equals(Object obj) {
-        // TODO Auto-generated method stub
-        return super.equals("Reprovado");
+
+        else if(nota>=5 && nota < 7 )
+        System.out.println("Prava de Recuperação");
+
+        
+        else 
+        System.out.println("Reprovado");
+      
+
+      
     }
 
 
-
-
-
 }
+ 
